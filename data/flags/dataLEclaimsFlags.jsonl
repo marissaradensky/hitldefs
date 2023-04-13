@@ -1,0 +1,147 @@
+{"id": 1,"flag": false,"claim": "Simple Graph Convolution (SGC) is a linear model used in the field of graph neural networks.","doc_ids": [0]}
+{"id": 2,"flag": false,"claim": "Simple Graph Convolution (SGC) is designed to be more straightforward and easier to understand","doc_ids": [0]}
+{"id": 3,"flag": false,"claim": "Simple Graph Convolution (SGC)'s nonlinear counterparts.","doc_ids": [0]}
+{"id": 4,"flag": false,"claim": "Simple Graph Convolution (SGC) is used for various tasks, such as node classification, text classification, user geolocation, relation extraction,","doc_ids": [0]}
+{"id": 5,"flag": false,"claim": "zero-shot image classification.","doc_ids": [0]}
+{"id": 6,"flag": false,"claim": "In comparison to other state-of-the-art graph neural networks","doc_ids": [0]}
+{"id": 7,"flag": false,"claim": "Simple Graph Convolution (SGC) has been shown to achieve similar performance levels.","doc_ids": [0]}
+{"id": 8,"flag": true,"claim": "The main idea behind Simple Graph Convolution (SGC) is that Simple Graph Convolution (SGC) applies a single fixed filter to each feature dimension during the feature extraction process.","doc_ids": [0]}
+{"id": 9,"flag": true,"claim": "This approach makes Simple Graph Convolution (SGC) more interpretable","doc_ids": [0]}
+{"id": 10,"flag": true,"claim": "allows for a theoretical analysis from the graph convolution perspective.","doc_ids": [0]}
+{"id": 11,"flag": false,"claim": "Simple Graph Convolution (SGC) has been proven to be effective in a wide range of downstream tasks","doc_ids": [0]}
+{"id": 12,"flag": false,"claim": "making Simple Graph Convolution (SGC) a versatile tool in the field of graph neural networks.","doc_ids": [0]}
+{"id": 13,"flag": true,"claim": "SHAP, or Shapley Additive Explanations","doc_ids": [1]}
+{"id": 14,"flag": false,"claim": "is a method used to understand the importance of different features in a model’s prediction.","doc_ids": [1]}
+{"id": 15,"flag": false,"claim": "SHAP is based on the concept of Shapley values","doc_ids": [1]}
+{"id": 16,"flag": false,"claim": "which come from cooperative game theory.","doc_ids": [1]}
+{"id": 17,"flag": false,"claim": "The main idea behind SHAP is to measure the contribution of each feature to the prediction by comparing the model’s output with and without that feature.","doc_ids": [1]}
+{"id": 18,"flag": false,"claim": "This is done for all possible combinations of features,","doc_ids": [1]}
+{"id": 19,"flag": false,"claim": "the results are averaged to obtain the final SHAP values.","doc_ids": [1]}
+{"id": 20,"flag": false,"claim": "There are three previous methods that use Shapley values to compute explanations of model predictions: Shapley regression values, Shapley sampling values, and Quantitative Input Influence.","doc_ids": [1]}
+{"id": 21,"flag": false,"claim": "Shapley regression values are designed for linear models, while Shapley sampling values","doc_ids": [1]}
+{"id": 22,"flag": false,"claim": "Quantitative Input Influence can be applied to any model.","doc_ids": [1]}
+{"id": 23,"flag": false,"claim": "These methods use different techniques to approximate the Shapley values,","doc_ids": [1]}
+{"id": 24,"flag": true,"claim": "they all aim to provide an additive feature attribution","doc_ids": [1]}
+{"id": 25,"flag": false,"claim": "meaning that the contributions of all features sum up to the total prediction.","doc_ids": [1]}
+{"id": 26,"flag": false,"claim": "In summary, SHAP is a unified measure of feature importance that helps to explain the predictions of various models.","doc_ids": [1]}
+{"id": 27,"flag": false,"claim": "SHAP uses the concept of Shapley values from cooperative game theory to attribute the contributions of each feature to the model’s output.","doc_ids": [1]}
+{"id": 28,"flag": false,"claim": "This method allows for a better understanding of the role of different features in the model’s decision-making process.","doc_ids": [1]}
+{"id": 29,"flag": true,"claim": "The Continuous Bag of Words (CBOW) model is a type of neural network architecture used in natural language processing.","doc_ids": [2]}
+{"id": 30,"flag": false,"claim": "The Continuous Bag of Words (CBOW) model differs from the standard bag-of-words model by utilizing continuous distributed representations of the context.","doc_ids": [2]}
+{"id": 31,"flag": false,"claim": "In the Continuous Bag of Words (CBOW) model","doc_ids": [2]}
+{"id": 32,"flag": false,"claim": "the goal is to predict the current word based on the context of surrounding words in a sentence.","doc_ids": [2]}
+{"id": 33,"flag": false,"claim": "This model has been compared to other architectures, such","doc_ids": [2]}
+{"id": 34,"flag": false,"claim": "the Skip-gram model","doc_ids": [2]}
+{"id": 35,"flag": false,"claim": "the Neural Network Language Model (NNLM).","doc_ids": [2]}
+{"id": 36,"flag": false,"claim": "The Continuous Bag of Words (CBOW) model has been found to perform better","doc_ids": [2]}
+{"id": 37,"flag": false,"claim": "the Neural Network Language Model (NNLM) on syntactic tasks,","doc_ids": [2]}
+{"id": 38,"flag": false,"claim": "about the same on semantic tasks.","doc_ids": [2]}
+{"id": 39,"flag": false,"claim": "On the other hand, the Skip-gram model works slightly worse on syntactic tasks compared to the Continuous Bag of Words (CBOW) model","doc_ids": [2]}
+{"id": 40,"flag": false,"claim": "performs much better on semantic tasks.","doc_ids": [2]}
+{"id": 41,"flag": false,"claim": "Both the Continuous Bag of Words (CBOW) model","doc_ids": [2]}
+{"id": 42,"flag": false,"claim": "Skip-gram models can be trained on large datasets using distributed frameworks","doc_ids": [2]}
+{"id": 43,"flag": false,"claim": "allowing for the possibility of training on corpora with up to one trillion words","doc_ids": [2]}
+{"id": 44,"flag": false,"claim": "an unlimited vocabulary size.","doc_ids": [2]}
+{"id": 45,"flag": false,"claim": "XGBoost is a scalable machine learning system that focuses on tree boosting.","doc_ids": [3]}
+{"id": 46,"flag": false,"claim": "XGBoost has gained popularity and success in various competitions, such as Kaggle and KDDCup","doc_ids": [3]}
+{"id": 47,"flag": false,"claim": "where XGBoost has been used by many winning teams.","doc_ids": [3]}
+{"id": 48,"flag": false,"claim": "The key factor behind XGBoost’s success is its scalability in all scenarios","doc_ids": [3]}
+{"id": 49,"flag": true,"claim": "which is achieved through important systems and algorithmic optimizations.","doc_ids": [3]}
+{"id": 50,"flag": false,"claim": "In some cases, XGBoost is used alone to train models, while in others","doc_ids": [3]}
+{"id": 51,"flag": false,"claim": "XGBoost is combined with neural networks in ensembles.","doc_ids": [3]}
+{"id": 52,"flag": false,"claim": "Although domain-dependent data analysis","doc_ids": [3]}
+{"id": 53,"flag": true,"claim": "feature engineering play a significant role in these solutions, XGBoost’s","doc_ids": [3]}
+{"id": 54,"flag": false,"claim": "widespread use highlights its impact and importance in the field of machine learning.","doc_ids": [3]}
+{"id": 55,"flag": false,"claim": "Most existing single machine tree boosting implementations, including XGBoost","doc_ids": [3]}
+{"id": 56,"flag": false,"claim": "support the exact greedy algorithm.","doc_ids": [3]}
+{"id": 57,"flag": true,"claim": "Hierarchical Navigable Small World (HNSW) is a graph-based structure designed for efficiently finding approximate nearest neighbors in large datasets.","doc_ids": [4]}
+{"id": 58,"flag": false,"claim": "Hierarchical Navigable Small World (HNSW) works by creating a controllable hierarchy","doc_ids": [4]}
+{"id": 59,"flag": false,"claim": "which allows for better logarithmic complexity scaling.","doc_ids": [4]}
+{"id": 60,"flag": true,"claim": "This means that as the dataset grows","doc_ids": [4]}
+{"id": 61,"flag": true,"claim": "the time it takes to search for nearest neighbors increases at a slower rate compared to other methods.","doc_ids": [4]}
+{"id": 62,"flag": false,"claim": "Hierarchical Navigable Small World (HNSW) is an incremental structure","doc_ids": [4]}
+{"id": 63,"flag": false,"claim": "meaning that Hierarchical Navigable Small World (HNSW) can be updated by inserting new elements into the graph.","doc_ids": [4]}
+{"id": 64,"flag": true,"claim": "The insertion process involves determining the level of the new element, finding its nearest neighbors,","doc_ids": [4]}
+{"id": 65,"flag": true,"claim": "establishing connections between them.","doc_ids": [4]}
+{"id": 66,"flag": true,"claim": "This ensures that the graph remains efficient","doc_ids": [4]}
+{"id": 67,"flag": true,"claim": "up-to-date","doc_ids": [4]}
+{"id": 68,"flag": true,"claim": "new data is added.","doc_ids": [4]}
+{"id": 69,"flag": true,"claim": "To search for the nearest neighbors of a query element","doc_ids": [4]}
+{"id": 70,"flag": true,"claim": "Hierarchical Navigable Small World (HNSW) uses a dynamic candidate list","doc_ids": [4]}
+{"id": 71,"flag": true,"claim": "starts from the top layer of the graph.","doc_ids": [4]}
+{"id": 72,"flag": true,"claim": "Hierarchical Navigable Small World (HNSW) then iteratively searches through the layers until it reaches the bottom layer","doc_ids": [4]}
+{"id": 73,"flag": true,"claim": "where the final nearest neighbors are found.","doc_ids": [4]}
+{"id": 74,"flag": true,"claim": "Hierarchical Navigable Small World (HNSW) has been implemented in various programming libraries, such","doc_ids": [4]}
+{"id": 75,"flag": true,"claim": "the one available on GitHub at https://github.com/nmslib/hnsw.","doc_ids": [4]}
+{"id": 76,"flag": true,"claim": "This implementation allows users to easily utilize the Hierarchical Navigable Small World (HNSW) algorithm for their own datasets and applications.","doc_ids": [4]}
+{"id": 77,"flag": true,"claim": "BART, short for Bidirectional and Auto-Regressive Transformers","doc_ids": [5]}
+{"id": 78,"flag": false,"claim": "is a denoising autoencoder built with a sequence-to-sequence model.","doc_ids": [5]}
+{"id": 79,"flag": false,"claim": "BART is designed to be applicable to a wide range of tasks, including text generation and comprehension.","doc_ids": [5]}
+{"id": 80,"flag": false,"claim": "BART uses a standard Transformer-based neural machine translation architecture, which can be seen","doc_ids": [5]}
+{"id": 81,"flag": false,"claim": "a generalization of other models like BERT and GPT. ","doc_ids": [5]}
+{"id": 82,"flag": false,"claim": "In essence, BART works by mapping a corrupted document back to its original, uncorrupted form.","doc_ids": [5]}
+{"id": 83,"flag": true,"claim": "This process is particularly effective when fine-tuned for specific tasks.","doc_ids": [5]}
+{"id": 84,"flag": false,"claim": "BART has shown consistently strong performance across various tasks","doc_ids": [5]}
+{"id": 85,"flag": false,"claim": "making BART a valuable tool in the field of machine translation and natural language processing.","doc_ids": [5]}
+{"id": 86,"flag": false,"claim": "BERTScore is an evaluation metric designed to measure the quality of sentence-level generation in tasks such as machine translation and image captioning.","doc_ids": [6]}
+{"id": 87,"flag": false,"claim": "BERTScore works by computing the similarity between two sentences using a weighted aggregation of cosine similarities between their tokens.","doc_ids": [6]}
+{"id": 88,"flag": false,"claim": "This method is based on pre-trained BERT contextual embeddings","doc_ids": [6]}
+{"id": 89,"flag": false,"claim": "which allows it to capture dependencies of unbounded length","doc_ids": [6]}
+{"id": 90,"flag": false,"claim": "unlike traditional n-gram based methods.","doc_ids": [6]}
+{"id": 91,"flag": false,"claim": "In experiments, BERTScore has shown a high correlation with human evaluations of machine translation and image captioning systems.","doc_ids": [6]}
+{"id": 92,"flag": false,"claim": "BERTScore has outperformed other metrics on the WMT17 benchmark for machine translation","doc_ids": [6]}
+{"id": 93,"flag": false,"claim": "surpassed the popular task-specific metric SPICE on the 2015 COCO Captioning Challenge.","doc_ids": [6]}
+{"id": 94,"flag": false,"claim": "Additionally, BERTScore has demonstrated robustness when tested on the adversarial paraphrase dataset PAWS","doc_ids": [6]}
+{"id": 95,"flag": false,"claim": "proving to be more resistant to adversarial examples than other metrics.","doc_ids": [6]}
+{"id": 96,"flag": false,"claim": "For those interested in using BERTScore","doc_ids": [6]}
+{"id": 97,"flag": false,"claim": "it is available at github.com/Tiiiger/bertscore.","doc_ids": [6]}
+{"id": 98,"flag": false,"claim": "RoBERTa, short for Robustly optimized BERT approach","doc_ids": [7]}
+{"id": 99,"flag": false,"claim": "is an improved method for training BERT models.","doc_ids": [7]}
+{"id": 100,"flag": false,"claim": "RoBERTa builds upon the BERTLARGE architecture","doc_ids": [7]}
+{"id": 101,"flag": false,"claim": "which has 355 million parameters.","doc_ids": [7]}
+{"id": 102,"flag": false,"claim": "RoBERTa is trained using a combination of techniques, such as dynamic masking","doc_ids": [7]}
+{"id": 103,"flag": false,"claim": "full-sentences without NSP loss, large mini-batches,","doc_ids": [7]}
+{"id": 104,"flag": false,"claim": "a larger byte-level BPE.","doc_ids": [7]}
+{"id": 105,"flag": false,"claim": "The training process for RoBERTa involves multiple steps, starting with 100,000 steps","doc_ids": [7]}
+{"id": 106,"flag": false,"claim": "increasing up to 500,000 steps.","doc_ids": [7]}
+{"id": 107,"flag": false,"claim": "This extended training period leads to better performance across various tasks.","doc_ids": [7]}
+{"id": 108,"flag": false,"claim": "’s effectiveness is also influenced by the size","doc_ids": [7]}
+{"id": 109,"flag": false,"claim": "diversity of the training data used.","doc_ids": [7]}
+{"id": 110,"flag": false,"claim": "RoBERTa is evaluated on three different benchmarks: GLUE, SQuaD, and RACE.","doc_ids": [7]}
+{"id": 111,"flag": false,"claim": "In one setting, RoBERTa is fine-tuned separately for each of the GLUE tasks","doc_ids": [7]}
+{"id": 112,"flag": false,"claim": "using only the training data for the corresponding task.","doc_ids": [7]}
+{"id": 113,"flag": false,"claim": "Overall, RoBERTa is an advanced model that aims to match","doc_ids": [7]}
+{"id": 114,"flag": false,"claim": "exceed the performance of other post-BERT methods.","doc_ids": [7]}
+{"id": 115,"flag": false,"claim": "The skip-gram model is a method for learning high-quality vector representations of words from large amounts of unstructured text data.","doc_ids": [8]}
+{"id": 116,"flag": false,"claim": "These representations capture precise syntactic and semantic word relationships.","doc_ids": [8]}
+{"id": 117,"flag": false,"claim": "The main goal of the skip-gram model is to find word representations that are useful for predicting surrounding words in a sentence or a document.","doc_ids": [8]}
+{"id": 118,"flag": false,"claim": "This is done by maximizing the average log probability of the context words","doc_ids": [8]}
+{"id": 119,"flag": false,"claim": "given a center word.","doc_ids": [8]}
+{"id": 120,"flag": false,"claim": "The skip-gram model can be extended to represent whole phrases","doc_ids": [8]}
+{"id": 121,"flag": false,"claim": "making it more expressive.","doc_ids": [8]}
+{"id": 122,"flag": false,"claim": "The skip-gram model is trained using a simplified variant of Noise Contrastive Estimation","doc_ids": [8]}
+{"id": 123,"flag": false,"claim": "which results in faster training","doc_ids": [8]}
+{"id": 124,"flag": false,"claim": "better vector representations for frequent words.","doc_ids": [8]}
+{"id": 125,"flag": false,"claim": "The skip-gram model benefits from observing co-occurrences of words that have meaningful relationships, such as 'France' and 'Paris',","doc_ids": [8]}
+{"id": 126,"flag": false,"claim": "it benefits less from observing frequent co-occurrences of words that do not have a strong relationship, like 'France' and 'the'.","doc_ids": [8]}
+{"id": 127,"flag": false,"claim": "Large datasets, such as collections of news articles","doc_ids": [8]}
+{"id": 128,"flag": false,"claim": "are used for training the skip-gram models.","doc_ids": [8]}
+{"id": 129,"flag": false,"claim": "Linformer is a variation of the standard Transformer model","doc_ids": [9]}
+{"id": 130,"flag": false,"claim": "designed to be more efficient and faster","doc_ids": [9]}
+{"id": 131,"flag": false,"claim": "especially when dealing with long sequences of data.","doc_ids": [9]}
+{"id": 132,"flag": false,"claim": "Unlike the standard Transformer, which slows down as sequence length increases","doc_ids": [9]}
+{"id": 133,"flag": false,"claim": "Linformer maintains a relatively consistent speed.","doc_ids": [9]}
+{"id": 134,"flag": true,"claim": "This is achieved by using linear projection matrices","doc_ids": [9]}
+{"id": 135,"flag": true,"claim": "which can be shared across layers and heads to optimize performance and efficiency.","doc_ids": [9]}
+{"id": 136,"flag": false,"claim": "The performance of Linformer improves as the projected dimension (k) increases.","doc_ids": [9]}
+{"id": 137,"flag": false,"claim": "Even with smaller values of k","doc_ids": [9]}
+{"id": 138,"flag": false,"claim": "Linformer’s performance is nearly on par with the original Transformer.","doc_ids": [9]}
+{"id": 139,"flag": false,"claim": "When using a single projection matrix for layerwise sharing","doc_ids": [9]}
+{"id": 140,"flag": false,"claim": "the Linformer model’s validation perplexity is almost as good","doc_ids": [9]}
+{"id": 141,"flag": false,"claim": "the non-shared model.","doc_ids": [9]}
+{"id": 142,"flag": false,"claim": "Linformer’s efficiency is further demonstrated when evaluating the effect of sequence length during pretraining.","doc_ids": [9]}
+{"id": 143,"flag": true,"claim": "The validation perplexity remains consistent across various sequence lengths","doc_ids": [9]}
+{"id": 144,"flag": true,"claim": "supporting the claim that Linformer operates in linear time.","doc_ids": [9]}
+{"id": 145,"flag": false,"claim": "Overall, Linformer offers a more efficient","doc_ids": [9]}
+{"id": 146,"flag": false,"claim": "faster alternative to the standard Transformer","doc_ids": [9]}
+{"id": 147,"flag": false,"claim": "particularly for longer sequences.","doc_ids": [9]}
