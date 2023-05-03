@@ -38,5 +38,5 @@ for t in defs.keys():
 
 # Write sentences to file.
 f = open("pointsLEsents.txt", "a")
-f.write(sents)
+f.write(str(sents))
 f.close()
