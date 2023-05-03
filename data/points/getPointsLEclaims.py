@@ -72,16 +72,16 @@ with open("defs.txt") as fi:
 defs = json.loads(defs)
 
 # Get claims.
-claims = []
+claims = {}
 cs = []
 for t in defs.keys():
     out = split_sents(defs[t])[0]
     for x in out:
         cs += x
-    claims.append(cs)
+    claims[t] = cs
     cs = []
 
 # Write claims to file.
 f = open("pointsLEclaims.txt", "a")
-f.write(claims)
+f.write(str(claims))
 f.close()
